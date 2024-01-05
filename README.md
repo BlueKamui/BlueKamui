@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BlueKamui
-- 👀 I’m interested in coding for business
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in coding for fun
+- 🌱 I’m currently learning HTML
 - 📫 How to reach me: youssefhaddouch0@gmail.com
 
 <!---
